@@ -86,7 +86,7 @@ reach to the end final boss through series of 4 levels
 
 ### directory structue
 --------------------
-'''
+```
 20171127_Assign1
 	├── alarmexception.py
 	├── board.py
@@ -99,7 +99,7 @@ reach to the end final boss through series of 4 levels
 	└── requirements.txt
 
 0 directories, 9 files
-'''
+```
 
 ### scoring parameter:
 - brick0 = 100 points
