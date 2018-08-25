@@ -11,7 +11,7 @@ This **README** file contains :
 
 ### characters/objects
 ---------------------
-
+```
 ()
 **  --- this is mario
 /\
@@ -56,7 +56,7 @@ ______
   pitfalls--- empty spaces where if mario falls then game will end
 
   pipe at end of every level. jump over the pipe to move to the next level
-
+```
 ### About The Game
 --------------
 this game is clone of mario game built for Assignment 1 of ssas course with the main objective
@@ -87,7 +87,7 @@ reach to the end final boss through series of 4 levels
 ### directory structue
 --------------------
 ```
-20171127_Assign1
+mario-game
 	├── alarmexception.py
 	├── board.py
 	├── colors.py
