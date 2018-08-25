@@ -9,7 +9,7 @@ This **README** file contains :
  4. Instructions on how to Run the Code
  5. Requirements
 
-#characters/objects
+### characters/objects
 ---------------------
 
 ()
@@ -57,13 +57,13 @@ ______
 
   pipe at end of every level. jump over the pipe to move to the next level
 
-#About The Game
+### About The Game
 --------------
 this game is clone of mario game built for Assignment 1 of ssas course with the main objective
 of the protagonist player to overcome all the obstacles and hurdles that come in between and
 reach to the end final boss through series of 4 levels
 
-#Rules
+### Rules
 -----
 
 - Mario game can be controlled using 'w', 's' and 'a'
@@ -72,34 +72,35 @@ reach to the end final boss through series of 4 levels
   to complete the Game
 - you have 500 seconds to complete the game then you will be getting negative score  
 - falling into pit will result in game end
-#Controls
+
+###Controls
 ----------
 
 - standard 'w','a' and 'd'
 - press q to quit the game
 
-# running the program
+### running the program
 ----------------------
 - simply do python3 main.py
 - no extra modules are required
 
-# directory structue
+### directory structue
 --------------------
 20171127_Assign1
-├── alarmexception.py
-├── board.py
-├── colors.py
-├── gameplay.py
-├── getch.py
-├── main.py
-├── objects.py
-├── README.md
-└── requirements.txt
+	├── alarmexception.py
+	├── board.py
+	├── colors.py
+	├── gameplay.py
+	├── getch.py
+	├── main.py
+	├── objects.py
+	├── README.md
+	└── requirements.txt
 
 0 directories, 9 files
 
 
-# scoring parameter:
+### scoring parameter:
 - brick0 = 100 points
 - brick1 = 50 points
 - enemy = 20 points
